@@ -1,0 +1,6 @@
+com\example\jobtracker\service\JobService.class
+com\example\jobtracker\controller\JobController.class
+com\example\jobtracker\model\Job.class
+com\example\jobtracker\gui\JobTrackerGUI.class
+com\example\jobtracker\JobTrackerApplication.class
+com\example\jobtracker\repository\JobRepository.class
